@@ -14,7 +14,11 @@ class Mn3Spider(BaseSpider):
 	hxs = HtmlXPathSelector(response)
 	#check if last page
 	next = hxs.select('//ul[@class="ipsList_inline forward left"]//li[@class="next"]//a/@href').extract()
+	print "LALALAND"
+	print "########################################"
+	print len(next)
 	if len(next) > 0:
+		print "next"
 		yield Request(next[0],self.parse)
         topic_list = hxs.select('//div[@class="ipsBox"]//div[@class="ipsBox_container"]//table//tr')[1:]
         for topic in topic_list:
@@ -28,6 +32,7 @@ class Mn3Spider(BaseSpider):
 		items.append(item)
 		f.write(str(item)+"\n")
 	f.close()
-	return items
+	for item in items:
+		yield item
 
 	
