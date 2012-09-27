@@ -1,0 +1,2074 @@
+<!DOCTYPE html>
+	<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Bela tehnika - Mn3njalnik</title>
+		<link rel="shortcut icon" href='http://www.joker.si/mn3njalnik/favicon.ico' />
+		<link rel="image_src" href='http://www.joker.si/mn3njalnik/public/style_images/joker_new/meta_image.png' />
+		<script type='text/javascript'>
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			USE_RTE			= 0;
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		
+	
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen" href="http://www.joker.si/mn3njalnik/public/style_css/css_11/calendar_select.css?ipbv=32006" />
+		
+	
+
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.joker.si/mn3njalnik/public/style_css/css_11/ipb_styles.css?ipbv=32006" />
+		
+	
+
+				
+			<link rel="stylesheet" type="text/css" title="Main" media="screen,print" href="http://www.joker.si/mn3njalnik/public/style_css/css_11/ipb_common.css?ipbv=32006" />
+		
+	
+	
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.joker.si/mn3njalnik/public/style_css/css_11/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+
+	<style type='text/css'>
+		img.bbc_img { max-width: 100% !important; }
+	</style>
+
+	
+		<meta name="description" content="Bela tehnika: Razglabljanja o globalnih problemih človeštva in težavah s kuhinjsko opremo." />
+		
+	
+
+		<meta name="identifier-url" content="http://www.joker.si/mn3njalnik/index.php?showforum=14" />
+		
+			<meta name="og:url" content="http://www.joker.si/mn3njalnik/index.php?showforum=14" />
+		
+	
+
+		<meta property="og:title" content="Bela tehnika"/>
+		<meta property="og:site_name" content="Mn3njalnik"/>
+		<meta property="og:image" content="http://www.joker.si/mn3njalnik/public/style_images/joker_new/meta_image.png"/>
+		<meta property="og:type" content="article" />
+		
+		
+		
+		<script type='text/javascript' src='http://www.joker.si/mn3njalnik/public/js/3rd_party/prototype.js'></script>
+	
+	<script type='text/javascript' src='http://www.joker.si/mn3njalnik/public/js/ipb.js?ipbv=32006&amp;load=quickpm,hovercard,forums,like'></script>
+	
+		<script type='text/javascript' src='http://www.joker.si/mn3njalnik/public/js/3rd_party/scriptaculous/scriptaculous-cache.js'></script>
+	
+	<script type="text/javascript" src='http://www.joker.si/mn3njalnik/cache/lang_cache/2/ipb.lang.js' charset='utf-8'></script>
+
+
+	
+		
+			
+			
+			
+			
+				<link id="ipsCanonical" rel="canonical" href="http://www.joker.si/mn3njalnik/index.php?showforum=14" />
+			
+		
+
+			
+			
+			
+			
+				<link rel='up' href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=33' />
+			
+		
+	
+
+	
+
+
+	
+
+
+
+		
+		<script type='text/javascript'>
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&';
+		ipb.vars['board_url']			= 'http://www.joker.si/mn3njalnik';
+		ipb.vars['img_url'] 			= "http://www.joker.si/mn3njalnik/public/style_images/joker_new";
+		ipb.vars['loading_img'] 		= 'http://www.joker.si/mn3njalnik/public/style_images/joker_new/loading.gif';
+		ipb.vars['active_app']			= 'forums';
+		ipb.vars['upload_url']			= 'http://www.joker.si/mn3njalnik/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
+		ipb.vars['session_id']			= '7f17e83344d7c5bc18b9ae5d9622cf7f';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt( 0 );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"1"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= 'mn3njalnik_';
+		ipb.vars['cookie_domain'] 		= 'joker.si';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://www.joker.si/mn3njalnik/public/style_images/joker_new/star.png';
+		ipb.vars['rate_img_off']		= 'http://www.joker.si/mn3njalnik/public/style_images/joker_new/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://www.joker.si/mn3njalnik/public/style_images/joker_new/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://www.joker.si/mn3njalnik/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "utf-8";
+		ipb.vars['seo_enabled']			= 0;
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		ipb.templates['m_add_friend']	= new Template("<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=members&amp;module=profile&amp;section=friends&amp;do=add&amp;member_id=#{id}' title='Dodaj kot prijateljčka' class='ipsButton_secondary'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/user_add.png' alt='Dodaj kot prijateljčka' /></a>");
+		ipb.templates['m_rem_friend']	= new Template("<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=members&amp;module=profile&amp;section=friends&amp;do=remove&amp;member_id=#{id}' title='Odstrani prijateljčka' class='ipsButton_secondary'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/user_delete.png' alt='Odstrani prijateljčka' /></a>");
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Skoči na stran</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Pojdi' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script>
+	</head>
+	<body id='ipboard_body'>
+		<p id='content_jump' class='hide'><a id='top'></a><a href='#j_content' title='Skoči na vsebino' accesskey='m'>Skoči na vsebino</a></p>
+		<div id='ipbwrapper'>
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<div id='header_bar' class='clearfix'>
+				<div class='main_width'>
+					
+					<div id='user_navigation' class='not_logged_in'>
+							
+							<ul class='ipsList_inline right'>
+								<li>
+									<span class='services'>
+										
+										
+										
+										
+									</span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=global&amp;section=login' title='Vpiši se &raquo;' id='sign_in' >Vpiši se &raquo;</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=global&amp;section=register" title='Registriraj se zdaj!' id='register_link'>Registriraj se zdaj!</a>
+								</li>
+							</ul>
+						</div>
+				</div>
+			</div>
+			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
+			<div id='branding'>
+				<div class='main_width'>
+					<div id='logo'>
+						
+							<a href='http://www.joker.si/mn3njalnik' title='Pojdi na seznam forumov' rel="home" accesskey='1'><img src='http://www.joker.si/mn3njalnik/public/style_images/11_logo_new.gif' alt='Logo' /></a>
+						
+					</div>
+					<div id='search' class='right'>
+	<form action="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id='search-box' >
+		<fieldset>
+			<label for='main_search' class='hide'>Išči</label>
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;search_in=forums' title='Napredno iskanje' accesskey='4' rel="search" id='adv_search' class='right'>Napredno</a>
+			<span id='search_wrap' class='right'>
+				<input type='text' id='main_search' name='search_term' class='inactive' size='17' tabindex='6' />
+				<span class='choice ipbmenu clickable' id='search_options' style='display: none'></span>
+				<ul id='search_options_menucontent' class='ipbmenu_content ipsPad' style='display: none'>
+					<li class='title'><strong>Išči v razdelku:</strong></li>
+					
+					<li class='special'><label for='s_forum' title='V tej izbi'><input type='radio' name='search_app' value="forums:forum:14" class='input_radio' id='s_forum' checked="checked" /> <strong>V tej izbi</strong></label></li>
+					
+					<li class='app'><label for='s_forums' title='Izbe'><input type='radio' name='search_app' class='input_radio' id='s_forums' value="forums"  />Izbe</label></li><li class='app'><label for='s_members' title='Člani'><input type='radio' name='search_app' class='input_radio' id='s_members' value="members"  />Člani</label></li><li class='app'><label for='s_core' title='Pomoč'><input type='radio' name='search_app' class='input_radio' id='s_core' value="core"  />Pomoč</label></li>
+						
+					
+
+						
+					
+
+						
+					
+				</ul>
+				<input type='submit' class='submit_input clickable' value='Išči' />
+			</span>
+			
+		</fieldset>
+	</form>
+</div>
+				</div>
+			</div>
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id='primary_nav' class='clearfix'>
+				<div class='main_width'>
+					<ul class='ipsList_inline' id='community_app_menu'>
+						
+							<li class='right'>
+								<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=global&amp;section=navigation&amp;inapp=forums" rel="quickNavigation" accesskey='9' id='quickNavLaunch' title='Odpri hitro navigacijo'><span>&nbsp;</span></a>
+							</li>
+						
+						<li id='nav_explore' class='right'>
+							<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums' accesskey='2'>Oglej si nove vsebine</a>
+						</li>
+						
+							<li id='nav_home' class='left'><a href='http://www.joker.si/' title='Domača stran' rel="home">Joker stranka</a></li>
+						
+																								<li id='nav_discussion' class='left active'><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;act=idx' title='Pojdi na izbe'>Izbe</a></li><li id='nav_members' class='left '><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=members&amp;module=list' title='Pojdi na seznam članov'>Člani</a></li>
+						
+							
+								
+							
+
+								
+							
+
+								
+							
+						
+						<li id='nav_other_apps' style='display: none'>
+							<a href='#' class='ipbmenu' id='more_apps'>Več <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/useropts_arrow.png' /></a>
+						</li>
+					</ul>
+				</div>
+				<script type='text/javascript'>
+					if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
+				</script>
+			</div>	
+			
+</br>
+<p align="middle">
+<iframe id='a769ae3f' name='a769ae3f' height='90' width='728' src='http://www.joker.si/_OpenX/www/delivery/afr.php?n=a769ae3f&amp;zoneid=13&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no'><a href='http://www.joker.si/_OpenX/www/delivery/ck.php?n=a8d4e7f6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.joker.si/_OpenX/www/delivery/avw.php?zoneid=13&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a8d4e7f6' border='0' alt='' /></a></iframe>
+<script type='text/javascript' src='http://www.joker.si/_OpenX/www/delivery/ag.php'></script>
+</p>
+</br>
+
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id='content' class='clearfix'>
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+					<div id='secondary_navigation' class='clearfix'>
+						<ol class='breadcrumb top ipsList_inline left'>
+														<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class='nav_sep'><a href="http://www.joker.si"><img src="/mn3njalnik/public/style_images/joker_new/logo_nav.gif"></a>
+</span>
+</li>
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;act=idx' itemprop="url">
+										<span itemprop="title">Mn3njalnik</span>
+									</a>
+								</li>
+								
+							
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class='nav_sep'>&rarr;</span>
+									 <a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=33' title='Vrni se na  Zajebani vsakdanjik' itemprop="url"><span itemprop="title">Zajebani vsakdanjik</span></a>
+								</li>
+								
+							
+
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class='nav_sep'>&rarr;</span>
+									 <a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14' title='Vrni se na  Bela tehnika' itemprop="url"><span itemprop="title">Bela tehnika</span></a>
+								</li>
+								
+							
+						</ol>
+					</div>
+					<br />
+				</if>
+				<noscript>
+					<div class='message error'>
+						<strong>Javascript je onemogočen</strong>
+						<p>Trenutno imaš onemogočeno izvajanje javascripta. Kup sstvari zaradi tega nemara ne bo delovalo. Daj no, omogoči javascript, da boš uzrl vse čare in lepote foruma.</p>
+					</div>
+					<br />
+				</noscript>
+				<!-- ::: CONTENT ::: -->
+				
+				
+<script type="text/javascript">
+//<![CDATA[
+	//Search Setup
+	ipb.vars['search_type']		= 'forum';
+	ipb.vars['search_type_id']	= 14;
+	ipb.templates['topic_rename'] = new Template("<input type='text' id='#{inputid}' value='#{value}' class='input_text' size='50' maxlength='150' /> <input type='submit' value='Posodobi' class='input_submit' id='#{submitid}' /> <a href='#' id='#{cancelid}' class='cancel' title='Preklic'>Preklic</a>");
+	var markerURL  = "http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&module=ajax&section=markasread&i=1"; // Ajax URL so don't use &amp;
+	var unreadIcon = "<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/f_icon_read_bc_nonew.gif' />";
+//]]>
+</script>
+
+<h1 class='ipsType_pagetitle'>Bela tehnika</h1>
+<div class='ipsType_pagedesc forum_rules'>
+	
+		Razglabljanja o globalnih problemih človeštva in težavah s kuhinjsko opremo.<br />
+	
+</div>
+<br />
+
+	<table class='ipb_table topic_list hover_rows' summary='Teme v tej izbi "Bela tehnika"' id='announcements'>
+		
+			<tr class='row2 announcement' id='arow_3'>
+				<td>
+										<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_announcement.png' alt='Razglas' />
+					<h4>
+						<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showannouncement=3&amp;f=14" title='Poglej naznanilo'>JCT odpira duri</a>
+					</h4>&nbsp;
+					<span class='desc'>Napisal <a hovercard-ref="member" hovercard-id="2" class="_hovertrigger url fn" href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2' title='Poglej profil'>LordFebo</a>
+						
+					</span>
+				</td>
+			</tr>
+		
+	</table>
+	<br />	
+
+<!-- __-SUBFORUMS-__ -->
+
+	<div class='category_block block_wrap'>
+		<h3 class='maintitle'>Podizbe</h3>
+		<div class='ipsBox table_wrap'>
+			<div class='ipsBox_container'>
+				<table class='ipb_table' summary="Podizbe v kategoriji 'Bela tehnika'">
+					
+						
+							
+								<tr class='unread'>
+										<td class='col_c_icon'>
+											
+												<a id='forum_img_48' href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=forum&amp;forumid=48&amp;returntoforumid=14&amp;i=1" data-tooltip="Označi forum kot prebran?" class='forum_marker'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/f_icon_bc_new.gif' /></a>
+												<script type='text/javascript'>
+													ipb.global.registerMarker( "forum_img_48", "f_unread", markerURL + "&forumid=48" );
+												</script>
+											
+										</td>
+										<td class='col_c_forum'>									
+											<h4>
+												
+												<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=48" title='Pojdi v izbo'>Forum</a>
+											</h4>
+										
+											
+																	
+											<p class='desc __forum_desc ipsType_small'>Vox populi de re publica, politicus et iuris.<br /></p>											
+										</td>
+										<td class='col_c_stats ipsType_small'>
+											<ul>
+												<li><strong>17</strong> tem</li>
+												<li><strong>4 812</strong> odgovorov</li>
+											</ul>
+										</td>
+										<td class='col_c_post'>
+											
+													<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14612' class='ipsUserPhotoLink left'>
+														<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-14612.png' alt='Fotka' class='ipsUserPhoto ipsUserPhoto_mini' />
+													</a>
+												
+												<ul class='last_post ipsType_small'>
+													<li>
+															<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=203&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo: Random o novi vladi'>Random o novi vladi</a>
+														</li>
+														
+															<li>Avtor <a hovercard-ref="member" hovercard-id="14612" class="_hovertrigger url fn" href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14612' title='Poglej profil'>Shenkey</a></li>
+														
+														
+															<li class='desc lighter blend_links'><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=203&amp;view=getlastpost' title='Oglej si zadnje sporočilo'>danes, 09:29</a></li>
+														
+											
+												</ul>
+										</td>
+									</tr>
+							
+
+								<tr class='unread'>
+										<td class='col_c_icon'>
+											
+												<a id='forum_img_50' href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=forum&amp;forumid=50&amp;returntoforumid=14&amp;i=1" data-tooltip="Označi forum kot prebran?" class='forum_marker'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/f_icon_bc_new.gif' /></a>
+												<script type='text/javascript'>
+													ipb.global.registerMarker( "forum_img_50", "f_unread", markerURL + "&forumid=50" );
+												</script>
+											
+										</td>
+										<td class='col_c_forum'>									
+											<h4>
+												
+												<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=50" title='Pojdi v izbo'>Trola</a>
+											</h4>
+										
+											
+																	
+											<p class='desc __forum_desc ipsType_small'>Težave malega človečka, štacune, potovanja, moda  ... Skratka, več kot gnoj, a manj globalno kot bela tehnika.<br /></p>											
+										</td>
+										<td class='col_c_stats ipsType_small'>
+											<ul>
+												<li><strong>38</strong> tem</li>
+												<li><strong>2 050</strong> odgovorov</li>
+											</ul>
+										</td>
+										<td class='col_c_post'>
+											
+													<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=290' class='ipsUserPhotoLink left'>
+														<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-290.jpg' alt='Fotka' class='ipsUserPhoto ipsUserPhoto_mini' />
+													</a>
+												
+												<ul class='last_post ipsType_small'>
+													<li>
+															<i>Zaščitene izbe</i>
+														</li>
+														
+															<li>Avtor <a hovercard-ref="member" hovercard-id="290" class="_hovertrigger url fn" href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=290' title='Poglej profil'>Sleipnir</a></li>
+														
+														
+															<li class='desc lighter blend_links'>danes, 09:09</li>
+														
+											
+												</ul>
+										</td>
+									</tr>
+							
+
+								<tr class='unread'>
+										<td class='col_c_icon'>
+											
+												<a id='forum_img_56' href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=forum&amp;forumid=56&amp;returntoforumid=14&amp;i=1" data-tooltip="Označi forum kot prebran?" class='forum_marker'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/f_icon_bc_new.gif' /></a>
+												<script type='text/javascript'>
+													ipb.global.registerMarker( "forum_img_56", "f_unread", markerURL + "&forumid=56" );
+												</script>
+											
+										</td>
+										<td class='col_c_forum'>									
+											<h4>
+												
+												<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=56" title='Pojdi v izbo'>Frotirka</a>
+											</h4>
+										
+											
+																	
+											<p class='desc __forum_desc ipsType_small'>Štoparski nasveti, potopisi, počitniški slikogled, svetovna čudesa, turistična baranja in spisek najboljših kofišopov v Amsterdamu (slednje šele pride).<br /></p>											
+										</td>
+										<td class='col_c_stats ipsType_small'>
+											<ul>
+												<li><strong>9</strong> tem</li>
+												<li><strong>121</strong> odgovorov</li>
+											</ul>
+										</td>
+										<td class='col_c_post'>
+											
+													<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=476' class='ipsUserPhotoLink left'>
+														<img src='http://www.joker.si/mn3njalnik/uploads/av-476.jpg' alt='Fotka' class='ipsUserPhoto ipsUserPhoto_mini' />
+													</a>
+												
+												<ul class='last_post ipsType_small'>
+													<li>
+															<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7550&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo: [splosno] Kanada'>[splosno] Kanada</a>
+														</li>
+														
+															<li>Avtor <a hovercard-ref="member" hovercard-id="476" class="_hovertrigger url fn" href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=476' title='Poglej profil'>Krutec</a></li>
+														
+														
+															<li class='desc lighter blend_links'><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7550&amp;view=getlastpost' title='Oglej si zadnje sporočilo'>včeraj, 23:54</a></li>
+														
+											
+												</ul>
+										</td>
+									</tr>
+							
+						
+					
+				</table>
+			</div>
+		</div>
+	</div>
+	<br /><br />
+
+<div class='topic_controls clearfix'>
+		
+		<p class='pagination no_pages left ipsType_small'><span>Stran 1 od 1</span></p>
+	
+		<ul class='topic_buttons'>
+			
+				<li class='disabled'><span>Ne moreš začeti nove teme</span></li>
+			
+			<li class='non_button'>
+				<a data-clicklaunch="forumMarkRead" data-fid="14" href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=forum&amp;forumid=14&amp;returntoforumid=14' title='Označi to izbo kot prebrano'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_check.png' /> &nbsp;Označi to izbo kot prebrano</a>
+			</li>
+		</ul>
+	</div>
+	<div class='ipsFilterbar maintitle'>
+		
+		<ul class='ipsList_inline ipsType_small'>
+			<li class='active'><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;st=0&amp;sort_key=last_post&amp;sort_by=Z-A' rel='nofollow'>Nazadnje posodobljeno</a></li>
+			<li ><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;st=0&amp;sort_key=start_date&amp;sort_by=Z-A' rel='nofollow'>Začetni datum</a></li>
+			<li ><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;st=0&amp;sort_key=posts&amp;sort_by=Z-A' rel='nofollow'>Največ odgovorov</a></li>
+			<li ><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;st=0&amp;sort_key=views&amp;sort_by=Z-A' rel='nofollow'>Največ ogledov</a></li>
+			<li ><a href='#forum_filter_menucontent' id='forum_filter'>Po meri</a></li>
+		</ul>
+	</div>
+	<div id='forum_filter_menucontent' class='ipbmenu_content ipsPad' style='display: none'>
+		<form id='filter_form' action="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;st=0&amp;changefilters=1" method="post">
+			<strong>Pokaži tip:</strong><br />
+			<select name="topicfilter" id='topic_filter' class='input_select'><option value='all' selected='selected'>Teme: vse</option>
+<option value='open'>Teme: odprte</option>
+<option value='hot'>Teme: vroče</option>
+<option value='poll'>Teme: ankice</option>
+<option value='locked'>Teme: zaklenjene</option>
+<option value='moved'>Teme: premaknjene</option>
+</select>
+			<br /><br />
+		
+			<strong>Razvrsti po:</strong><br />
+			<select name="sort_key" id='sort_by' class='input_select'><option value='last_post' selected='selected'>Vrstni red: zadnje sporočilo</option>
+<option value='last_poster_name'>Vrstni red: zadnji objavljalec</option>
+<option value='title'>Vrstni red: naslov teme</option>
+<option value='starter_name'>Vrstni red: avtor teme</option>
+<option value='start_date'>Vrstni red: datum odprtja teme</option>
+<option value='topic_hasattach'>Vrstni red: priponke</option>
+<option value='posts'>Vrstni red: odgovori</option>
+<option value='views'>Vrstni red: ogledi</option>
+</select>
+			<br /><br />
+		
+			<strong>Smer razvrščanja:</strong><br />
+			<select name="sort_by" id='direction' class='input_select'><option value='Z-A' selected='selected'>Ž-A</option>
+<option value='A-Z'>A-Ž</option>
+</select>
+			<br /><br />
+		
+			<strong>Časovni okvir:</strong><br />
+			<select name="prune_day" id='time_frame' class='input_select'><option value='1'>Od: danes</option>
+<option value='5'>Izpred: 5 dni</option>
+<option value='7'>Izpred: 7 dni</option>
+<option value='10'>Izpred: 10 dni</option>
+<option value='15'>Izpred: 15 dni</option>
+<option value='20'>Izpred: 20 dni</option>
+<option value='25'>Izpred: 25 dni</option>
+<option value='30' selected='selected'>Izpred: 30 dni</option>
+<option value='60'>Izpred: 60 dni</option>
+<option value='90'>Izpred: 90 dni</option>
+<option value='100'>Pokaži vse</option>
+<option value='200'>Pokaži: od zadnjega obiska</option>
+</select>
+			<br /><br />
+		
+			<input type='checkbox' value='1' name='remember' class='input_check' id='remember_filter' /> <label for='remember_filter'>Zapomni si filtre</label>
+			<br /><br />
+			
+			<input type="submit" value="Pojdi" class="input_submit" />
+		</form>
+	</div>
+	<script type='text/javascript'>
+		new ipb.Menu( $('forum_filter'), $('forum_filter_menucontent'), { stopClose: true } );
+	</script>
+	<div class='ipsBox'>
+		<div class='ipsBox_container'>
+			<table class='ipb_table topic_list hover_rows ' summary='Teme v tej izbi "Bela tehnika"' id='forum_table'>
+				<tr class='header hide'>
+					<th scope='col' class='col_f_icon'>&nbsp;</th>
+					<th scope='col' class='col_f_topic'>Tema</th>
+					<th scope='col' class='col_f_starter short'>Avtor teme</th>
+					<th scope='col' class='col_f_views stats'>Statistika</th>
+					<th scope='col' class='col_f_post'>Podatki o zadnjem sporočilu</th>
+					
+				</tr>	
+				<!-- BEGIN TOPICS -->
+				
+										
+						<tr class='__topic unread expandable' id='trow_436' data-tid="436">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4>
+	<span class='ipsBadge ipsBadge_green'>Prilepljeno</span>&nbsp;
+<a id="tid-link-436" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436" title='Poglej temo, odprto  15 junij 2012 - 10:14' class='topic_title'>Uma Polen Turban</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="2457" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2457'>Purple</a>, 15 jun 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=436" onclick="return ipb.forums.retrieveWhoPosted( 436 );">118 odgovorov</a>
+			</li>
+			<li class='views desc'>4 087 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14790' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-14790.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="14790" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14790'>kajzrca</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=436&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>24 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_191' data-tid="191">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-191" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191" title='Poglej temo, odprto  14 junij 2012 - 14:24' class='topic_title'>Vojna tretjega sveta</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="14061" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14061'>Al Merko</a>, 14 jun 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=III.+svetovna+vojna&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'III. svetovna vojna'"><span>III. svetovna vojna</span></a>
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;st=560" title='Pojdi na stran 15'>15 &rarr;</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=191" onclick="return ipb.forums.retrieveWhoPosted( 191 );">583 odgovorov</a>
+			</li>
+			<li class='views desc'>16 196 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=324' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-324.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="324" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=324'>tufy</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=191&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>danes, 08:20</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_1232' data-tid="1232">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-1232" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232" title='Poglej temo, odprto  21 junij 2012 - 22:09' class='topic_title'>Mesojedci vs vegetarijanci</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="17568" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17568'>KarlMarx</a>, 21 jun 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;st=640" title='Pojdi na stran 17'>17 &rarr;</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=1232" onclick="return ipb.forums.retrieveWhoPosted( 1232 );">653 odgovorov</a>
+			</li>
+			<li class='views desc'>13 089 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=13' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-13.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="13" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=13'>VonGriffin</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1232&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>danes, 06:11</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_425' data-tid="425">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4>
+	<span class='ipsBadge ipsBadge_green'>Ankica</span>&nbsp;
+<a id="tid-link-425" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425" title='Poglej temo, odprto  15 junij 2012 - 08:14' class='topic_title'>a si veren?</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="17323" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17323'>dažbog</a>, 15 jun 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> 
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;st=1200" title='Pojdi na stran 31'>31 &rarr;</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=425" onclick="return ipb.forums.retrieveWhoPosted( 425 );">1 220 odgovorov</a>
+			</li>
+			<li class='views desc'>22 217 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17842' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-17842.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="17842" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17842'>asdadfa</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=425&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>včeraj, 22:13</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_4592' data-tid="4592">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-4592" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592" title='Poglej temo, odprto  11 avgust 2012 - 23:49' class='topic_title'>Kronologija zidave hiše II</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="2132" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2132'>hordak</a>, 11 avg 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=4592" onclick="return ipb.forums.retrieveWhoPosted( 4592 );">101 odgovorov</a>
+			</li>
+			<li class='views desc'>2 954 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2132' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-2132.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="2132" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2132'>hordak</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4592&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>včeraj, 21:43</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_3894' data-tid="3894">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-3894" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894" title='Poglej temo, odprto  31 julij 2012 - 22:09' class='topic_title'>forumski modrijani</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="461" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=461'>quattro</a>, 31 jul 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=3894" onclick="return ipb.forums.retrieveWhoPosted( 3894 );">62 odgovorov</a>
+			</li>
+			<li class='views desc'>2 880 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1947' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-1947.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="1947" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1947'>Mr Shears</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3894&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>25 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_4166' data-tid="4166">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-4166" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166" title='Poglej temo, odprto  05 avgust 2012 - 20:45' class='topic_title'>učni programi v gimnazijah in srednjih šolah</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="17887" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17887'>Bogdan</a>, 05 avg 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=bogdan&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'bogdan'"><span>bogdan</span></a>
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;st=160" title='Pojdi na stran 5'>5 &rarr;</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=4166" onclick="return ipb.forums.retrieveWhoPosted( 4166 );">179 odgovorov</a>
+			</li>
+			<li class='views desc'>4 878 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17512' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-17512.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="17512" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17512'>Dante_Benz</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4166&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>25 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_451' data-tid="451">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-451" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451" title='Poglej temo, odprto  15 junij 2012 - 11:50' class='topic_title'>Vesolje</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="15956" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=15956'>Assembly75</a>, 15 jun 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=Mravlje+pa+ko%C5%A1arka&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'Mravlje pa košarka'"><span>Mravlje pa košarka</span></a>
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;st=160" title='Pojdi na stran 5'>5 &rarr;</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=451" onclick="return ipb.forums.retrieveWhoPosted( 451 );">160 odgovorov</a>
+			</li>
+			<li class='views desc'>5 839 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17842' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-17842.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="17842" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17842'>asdadfa</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=451&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>22 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_4148' data-tid="4148">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-4148" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148" title='Poglej temo, odprto  05 avgust 2012 - 15:34' class='topic_title'>Legalizacija marihuane ?</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="17796" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17796'>Viridis</a>, 05 avg 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=4148" onclick="return ipb.forums.retrieveWhoPosted( 4148 );">74 odgovorov</a>
+			</li>
+			<li class='views desc'>1 995 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=8264' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-8264.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="8264" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=8264'>Đerzelez Alija</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4148&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>21 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_7028' data-tid="7028">
+	<td class='col_f_icon altrow short'>
+		
+
+	<span title="Zaklenjena tema"><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_locked.png' alt='Zaklenjena tema' /><br /></span>
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7028&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-7028" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7028" title='Poglej temo, odprto  18 september 2012 - 22:25' class='topic_title'>Medicinske ID zapestnice</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="3419" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=3419'>[D]emoncek</a>, 18 sep 2012
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7028' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=7028" onclick="return ipb.forums.retrieveWhoPosted( 7028 );">1 odgovor</a>
+			</li>
+			<li class='views desc'>271 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=4650' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-4650.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="4650" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=4650'>JaGuArKa</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=7028&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>19 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_1811' data-tid="1811">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1811&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-1811" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1811" title='Poglej temo, odprto  29 junij 2012 - 11:27' class='topic_title'>Patenti</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="390" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=390'>Vodokotlič</a>, 29 jun 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=Kako+se+za%C5%A1%C4%8Dititi%3F&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'Kako se zaščititi?'"><span>Kako se zaščititi?</span></a>
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1811' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=1811" onclick="return ipb.forums.retrieveWhoPosted( 1811 );">19 odgovorov</a>
+			</li>
+			<li class='views desc'>920 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17676' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/profile/default_large.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="17676" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=17676'>Stynx</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=1811&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>13 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_3817' data-tid="3817">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-3817" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817" title='Poglej temo, odprto  30 julij 2012 - 16:49' class='topic_title'>Resource Based Economy</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="5606" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=5606'>Phoenix</a>, 30 jul 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=3817" onclick="return ipb.forums.retrieveWhoPosted( 3817 );">47 odgovorov</a>
+			</li>
+			<li class='views desc'>1 174 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14062' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-14062.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="14062" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14062'>nimious</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3817&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>10 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_5517' data-tid="5517">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-5517" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517" title='Poglej temo, odprto  26 avgust 2012 - 23:49' class='topic_title'>Globalna problematiko drog</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="18068" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=18068'>žvaka</a>, 26 avg 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=5517" onclick="return ipb.forums.retrieveWhoPosted( 5517 );">74 odgovorov</a>
+			</li>
+			<li class='views desc'>1 533 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=4625' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/profile/default_large.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="4625" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=4625'>osis</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5517&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>05 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_5666' data-tid="5666">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5666&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-5666" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5666" title='Poglej temo, odprto  29 avgust 2012 - 18:23' class='topic_title'>Popravilo starega vžigalnika</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="483" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=483'>inšpektor.fišer</a>, 29 avg 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=V%C5%BEigalnik&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'Vžigalnik'"><span>Vžigalnik</span></a>
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5666' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=5666" onclick="return ipb.forums.retrieveWhoPosted( 5666 );">7 odgovorov</a>
+			</li>
+			<li class='views desc'>361 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14626' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-14626.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="14626" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14626'>h3ck3r</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5666&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>01 sep 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_5778' data-tid="5778">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5778&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-5778" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5778" title='Poglej temo, odprto  31 avgust 2012 - 12:49' class='topic_title'>Pravna vprašanja</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="14396" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14396'>Fruchtzwerge</a>, 31 avg 2012
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5778' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=5778" onclick="return ipb.forums.retrieveWhoPosted( 5778 );">1 odgovor</a>
+			</li>
+			<li class='views desc'>164 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=634' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-634.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="634" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=634'>qomand</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5778&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>31 avg 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_5700' data-tid="5700">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5700&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-5700" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5700" title='Poglej temo, odprto  30 avgust 2012 - 11:32' class='topic_title'>Problematika osebne odgovornosti - koliko odgovornosti naj posameznik prevzame nase?</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="18102" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=18102'>No1</a>, 30 avg 2012
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5700' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=5700" onclick="return ipb.forums.retrieveWhoPosted( 5700 );">1 odgovor</a>
+			</li>
+			<li class='views desc'>303 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2499' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-2499.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="2499" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=2499'>lynx</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5700&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>31 avg 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_3806' data-tid="3806">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-3806" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806" title='Poglej temo, odprto  30 julij 2012 - 14:49' class='topic_title'>[NWO] Cepljenje</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="461" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=461'>quattro</a>, 30 jul 2012
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;st=80" title='Pojdi na stran 3'>3</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;st=120" title='Pojdi na stran 4'>4</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=3806" onclick="return ipb.forums.retrieveWhoPosted( 3806 );">159 odgovorov</a>
+			</li>
+			<li class='views desc'>3 562 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1911' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/av-1911.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="1911" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1911'>XerX</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=3806&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>30 avg 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_5633' data-tid="5633">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5633&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-5633" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5633" title='Poglej temo, odprto  29 avgust 2012 - 10:38' class='topic_title'>KRONOLOGIJA ZIDAVE HIŠE-linkaža</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="5538" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=5538'>berghaus</a>, 29 avg 2012
+			
+		</span>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5633' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=5633" onclick="return ipb.forums.retrieveWhoPosted( 5633 );">3 odgovorov</a>
+			</li>
+			<li class='views desc'>225 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1347' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/profile/default_large.png' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="1347" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1347'>skiny</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=5633&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>29 avg 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+
+						<tr class='__topic unread expandable' id='trow_4424' data-tid="4424">
+	<td class='col_f_icon altrow short'>
+		
+
+
+<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424&amp;view=getnewpost' title='Pojdi na prvo neprebrano sporočilo'>
+	
+		<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png' alt='Novi odgovori' /><br />
+	
+	</a>
+	</td>
+	<td class='col_f_content '>
+		
+		
+		
+		<h4><a id="tid-link-4424" href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424" title='Poglej temo, odprto  09 avgust 2012 - 15:16' class='topic_title'>Delo v tujini</a></h4>
+		<br />
+		<span class='desc lighter blend_links'>
+			Avtor: <a hovercard-ref="member" hovercard-id="4664" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=4664'>andrejus</a>, 09 avg 2012
+			
+				&nbsp; <img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png' /> <a  href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=search&amp;do=search&amp;search_tags=S+trebuhom+za+kruhom&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'S trebuhom za kruhom'"><span>S trebuhom za kruhom</span></a>
+			
+		</span>
+		
+			<ul class='mini_pagination'>
+			
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424&amp;st=0" title='Pojdi na stran 1'>1</a></li>
+					
+			
+
+					
+						<li><a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424&amp;st=40" title='Pojdi na stran 2'>2</a></li>
+					
+			
+			</ul>
+		
+	</td>
+	<td class='col_f_preview __topic_preview'>
+		
+			<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424' class='expander closed' title='Predogled teme'>&nbsp;</a>
+		
+	</td>
+	<td class='col_f_views desc blend_links'>
+		<ul>
+			<li>
+				
+				
+				
+						<span class='ipsBadge ipsBadge_orange'>Dejaven</span>&nbsp;
+					
+					<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=4424" onclick="return ipb.forums.retrieveWhoPosted( 4424 );">49 odgovorov</a>
+			</li>
+			<li class='views desc'>1 681 ogledov</li>
+		</ul>
+	</td>
+	<td class='col_f_post'>
+		<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1284' class='ipsUserPhotoLink left'>
+			<img src='http://www.joker.si/mn3njalnik/uploads/profile/photo-thumb-1284.jpg' class='ipsUserPhoto ipsUserPhoto_mini' />
+		</a>
+		<ul class='last_post ipsType_small'>
+			<li><a hovercard-ref="member" hovercard-id="1284" class="_hovertrigger url fn " href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=1284'>Manjifiko</a></li>
+			<li>
+				<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showtopic=4424&amp;view=getlastpost' title='Pojdi na zadnje sporočilo'>29 avg 2012</a>
+			</li>								
+		</ul>
+	</td>
+	
+</tr>
+
+					
+				
+			</table>
+			
+		</div>
+	</div>
+	
+		
+	
+	<br />
+	<div class='topic_controls clear'>
+		
+		<p class='pagination no_pages left ipsType_small'><span>Stran 1 od 1</span></p>
+	
+		<ul class='topic_buttons'>
+			
+				<li class='disabled'><span>Ne moreš začeti nove teme</span></li>
+			
+			
+		</ul>
+	</div>
+	
+	<br class='clear' />	
+	<div id='forum_footer' class='statistics clear clearfix'>
+		
+			<div id='forum_led_by' class='right ipsType_small'>
+				<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_users.png' /> &nbsp;Forum vodijo
+				
+					<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=members&amp;module=list&amp;max_results=30&amp;filter=6&amp;sort_order=asc&amp;sort_key=members_display_name&amp;st=0&amp;b=1' title='Poglej profil'>šerifi in depjutiji</a>,
+				
+
+					<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=members&amp;module=list&amp;max_results=30&amp;filter=4&amp;sort_order=asc&amp;sort_key=members_display_name&amp;st=0&amp;b=1' title='Poglej profil'>gejše</a>
+				
+			</div>
+		
+		<div id='forum_active_users' class='active_users stats_list'>
+				<h4 class='statistics_head'>3 uporabnikov koplje po tej izbi</h4>
+				<p class='statistics_brief'>2 članov, 1 gostov, 0 anonimnih uporabnikov</p>
+				<br />
+				<ul class='ipsList_inline'>
+					
+						
+					<li><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=18144' title='Bere (danes, 09:31)...'>Nindzamoz</a>,</li>
+						
+
+					<li><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showuser=14612' title='Bere (danes, 09:24)...'><span style='color:#00ff00'>Shenkey</span></a></li>
+						
+					
+				</ul>
+			</div>	
+	</div>
+<br class='clear' />
+	
+<div id='delPopUp' style='display:none'>
+	<h3 class='bar'>Izbriši temo</h3>
+	<div class='general_box'>
+		<form action='#{removeUrl}' method='POST'>
+			<strong>Odstrani iz pogleda</strong>
+			<p class='desc'>Tema bo še vidna šerifom v tej izbi.</p>
+			<p style='padding:4px 0px 4px 0px'>Razlog: <input type='text' name='deleteReason' id='delPop_reason' value='' style='width:65%' /> <input type='submit' class='input_submit' value='Odstrani' /></p>
+		</form>
+		<div style='#{permaDelete}padding-top:5px'>
+			<strong>Izbriši iz foruma</strong>
+			<p class='desc'>To sporočilo bo na vekov veke odstranjeno iz foruma in zadegano v pekel, kjer bo jok in stok in škripanje z zobmi.</p>
+			<p style='padding:4px 0px 4px 0px'><input type='button' class='input_submit' onclick="window.location='#{permaUrl}';" value='Izbriši zdaj' /></p>
+		</div>
+	</div>
+</div>
+				
+				<ol class='breadcrumb bottom ipsList_inline left clearfix clear'>
+											<li><a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;act=idx'>Mn3njalnik</a></li>
+							
+						
+							<li><span class='nav_sep'>&rarr;</span> <a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=33' title='Vrni se na  Zajebani vsakdanjik'>Zajebani vsakdanjik</a></li>
+							
+						
+
+							<li><span class='nav_sep'>&rarr;</span> <a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14' title='Vrni se na  Bela tehnika'>Bela tehnika</a></li>
+							
+						
+
+					<li class='right ipsType_smaller'>
+							<a href='http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=extras&amp;section=boardrules'>Mn3njalničarji, bodite pozdravljeni in prečitajte tole!</a>
+						</li>	
+				</ol>
+			</div>
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id='footer_utilities' class='main_width clearfix clear'>
+				<a rel="nofollow" href='#top' id='backtotop' title='Pojdi na vrh'><img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/top.png' alt='' /></a>
+				<ul class='ipsList_inline left'>
+					<li>
+						<img src='http://www.joker.si/mn3njalnik/public/style_images/joker_new/feed.png' alt='Vir RSS' id='rss_feed' class='clickable' />
+					</li>
+					
+					
+						<li>
+							<a rel="nofollow" href='#' id='new_language'>Slovenski</a>							
+							<ul id='new_language_menucontent' class='ipbmenu_content with_checks' style='display: none'>
+								
+									<li >
+										<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;k=880ea6a14ea49e853634fbdc5015a024&amp;setlanguage=1&amp;langurlbits=showforum=14&amp;cal_id=&amp;langid=1">English (USA)</a>
+									</li>
+								
+
+									<li class='selected'>
+										<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;showforum=14&amp;k=880ea6a14ea49e853634fbdc5015a024&amp;setlanguage=1&amp;langurlbits=showforum=14&amp;cal_id=&amp;langid=2">Slovenski</a>
+									</li>
+								
+							</ul>
+						</li>
+					
+					<li>
+						<a rel="nofollow" id='mark_all_read' href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024" title='Označi vse kot prebrano'>Označi forum kot prebran</a>
+						<ul id='mark_all_read_menucontent' class='ipbmenu_content' style='display: none'>
+							
+								<li>
+									
+								</li>
+							
+
+								<li>
+									<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=880ea6a14ea49e853634fbdc5015a024">Izbe</a>
+								</li>
+							
+							<li>
+								<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=880ea6a14ea49e853634fbdc5015a024"><strong>Označi vse kot prebrano</strong></a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://www.joker.si/mn3njalnik/index.php?s=7f17e83344d7c5bc18b9ae5d9622cf7f&amp;app=core&amp;module=help" title='Ogled pomoči' rel="help" accesskey='6'>Pomoč</a>
+					</li>				
+				</ul>
+				<!-- Copyright Information -->
+        				  <p id='copyright'>
+        				  	<a href='http://www.invisionpower.com/products/board/' title='Community Forum Software by Invision Power Services'>Community Forum Software by IP.Board 3.2.3</a><br />Licenciran:  Joker</p>
+		<!-- / Copyright -->
+			</div>
+			
+			
+			
+		</div>
+		
+		
+	</body>
+</html>
