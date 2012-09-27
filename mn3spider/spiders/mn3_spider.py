@@ -1,5 +1,6 @@
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
+from scrapy.http.request import Request
 from mn3spider.items import TopicItem
 
 class Mn3Spider(BaseSpider):
@@ -11,6 +12,10 @@ class Mn3Spider(BaseSpider):
 	f = open("results.txt","w")
 	items = []
 	hxs = HtmlXPathSelector(response)
+	#check if last page
+	next = hxs.select('//ul[@class="ipsList_inline forward left"]//li[@class="next"]//a/@href').extract()
+	if len(next) > 0:
+		yield Request(next[0],self.parse)
         topic_list = hxs.select('//div[@class="ipsBox"]//div[@class="ipsBox_container"]//table//tr')[1:]
         for topic in topic_list:
 		item = TopicItem()	
