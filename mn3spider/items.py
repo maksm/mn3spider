@@ -8,10 +8,11 @@ from scrapy.item import Item, Field
 class TopicItem(Item):
     # define the fields for your item here like:
     # name = Field()
-	title = Field()
-	#tags = Field()
-	author = Field()
-	date = Field()
-	url = Field()
-	replies = Field()
-	views = Field()
+    title = Field()
+    #tags = Field()
+    id = Field()
+    author = Field()
+    date = Field()
+    url = Field()
+    replies = Field()
+    views = Field()
