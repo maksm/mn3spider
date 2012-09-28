@@ -16,3 +16,10 @@ class TopicItem(Item):
     url = Field()
     replies = Field()
     views = Field()
+    
+class PostItem(Item):
+    id = Field()
+    author = Field()
+    date = Field()
+    content = Field()
+    score = Field()

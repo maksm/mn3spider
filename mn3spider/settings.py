@@ -7,13 +7,13 @@
 #
 
 BOT_NAME = 'mn3spider'
-BOT_VERSION = '1.0'
+BOT_VERSION = '0.2'
 
 SPIDER_MODULES = ['mn3spider.spiders']
 NEWSPIDER_MODULE = 'mn3spider.spiders'
-DEFAULT_ITEM_CLASS = 'mn3spider.items.MnSpiderItem'
+#DEFAULT_ITEM_CLASS = 'mn3spider.items.MnSpiderItem'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
-
+DOWNLOAD_DELAY = 2
 #ITEM_PIPELINES = ['isbullshit.pipelines.MongoDBPipeline',]
 #
 #MONGODB_SERVER = "localhost"

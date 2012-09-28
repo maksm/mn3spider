@@ -2,7 +2,7 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from scrapy.http.request import Request
 from mn3spider.items import TopicItem
-
+from mn3spider.items import PostItem
 #known possible issues:
 # more than 1000 views or replies could not be counted
 # when logged in, urls don't contain session variables anymore, so no processing is needed
@@ -12,7 +12,7 @@ class Mn3Topic(BaseSpider):
     start_urls = ["http://www.joker.si/mn3njalnik/index.php?showforum=4"]
 
     def parse(self, response):
-        f = open("results.txt","w")
+        f = open("resultsTopic.txt","w")
         items = []
         hxs = HtmlXPathSelector(response)
         #check if last page
@@ -45,4 +45,34 @@ class Mn3Topic(BaseSpider):
             f.write(str(item)+"\n")
         f.close()
 
-	
+class Mn3Post(BaseSpider):
+    name = "mn3post"
+    allowed_domains = ["joker.si"]
+    #start_urls should point to each topic in a subforum
+    start_urls = ["http://www.joker.si/mn3njalnik/index.php?showtopic=451"]
+
+    def parse(self, response):
+        f = open("resultsPost.txt","w")
+        items = []
+        hxs = HtmlXPathSelector(response)
+        
+        #check if last page
+#        next = hxs.select('//ul[@class="ipsList_inline forward left"]//li[@class="next"]//a/@href').extract()
+#        if len(next) > 0:
+#            a = next[0].split('?')
+#            b = a[1].split('&')
+#            if len(b)>2: url = a[0]+"?"+b[1]+"&"+b[2]
+#            else: url = next[0]
+#            yield Request(url,self.parse)
+        
+        posts = hxs.select('//div[@class="post_wrap"]')
+        for post in posts:
+            item = PostItem()
+            item['id'] = post.select('h3[@class="row2"]/span/a[@rel="bookmark"]/text()').extract()[0]
+            print item['id']
+            item['author'] = post.select('h3/span[@class="author vcard"]/a/text()').extract()[0]
+            item['date'] = post.select('div[@class="post_body"]/p/abbr/text()').extract()[0] #should be processed
+            item['content'] = post.select('div[@class="post_body"]/div').extract()[0] #some processing should be done, to extract the post TODO
+            yield item
+            f.write(str(item)+"\n")
+        f.close()
