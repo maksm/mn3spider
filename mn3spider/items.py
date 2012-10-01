@@ -19,6 +19,7 @@ class TopicItem(Item):
     
 class PostItem(Item):
     id = Field()
+    num = Field()
     author = Field()
     date = Field()
     content = Field()
