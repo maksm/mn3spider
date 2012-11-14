@@ -1,1 +1,6 @@
 A forum crawling spider, very much work in progress.
+
+In order to scrape the forum, first the topics need to be scraped. From the topics, the posts are scraped in a second pass.
+
+To scrape the topics run "scrapy crawl mn3topic"
+Secondly, to scrape the posts run "scrapy crawl mn3post"
