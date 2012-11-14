@@ -1,0 +1,227 @@
+TOPIC SCRAPING
+18
+list index out of range
+--------------------------
+<tr><td colspan="5" class="no_messages">
+						
+							Ni tem za prikaz. Možno je dvoje: ali je izba prazna, ali pa je najnovejša tema v izbi starejša od nastavljene meje časovnega prikaza.
+						</td>
+					</tr>
+--------------------------
+[]
+[]
+[]
+2012-11-14 10:45:09+0100 [mn3topic] ERROR: Spider error processing <http://www.joker.si/mn3njalnik/index.php?showforum=18> (referer: <None>)
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/base.py", line 800, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 595, in _tick
+	    taskObj._oneWorkUnit()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 472, in _oneWorkUnit
+	    result = self._iterator.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 57, in <genexpr>
+	    work = (callable(elem, *args, **named) for elem in iterable)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 96, in iter_errback
+	    yield it.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/offsite.py", line 24, in process_spider_output
+	    for x in result:
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/referer.py", line 14, in <genexpr>
+	    return (_set_referer(r) for r in result or ())
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/urllength.py", line 32, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/depth.py", line 48, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/home/maks/Projects/mn3spider/mn3spider/spiders/mn3_spider.py", line 53, in parse
+	    date = topic.select('td[@class="col_f_content "]//a[@class="topic_title"]//@title').extract()[0]
+	exceptions.IndexError: list index out of range
+
+
+
+********************
+PROBLEM: IZBRISANI UPORABNIKI IMAJO DRUGAČNO 'IME'
+
+21
+list index out of range
+--------------------------
+<tr><td colspan="5" class="no_messages">
+						
+							Ni tem za prikaz. Možno je dvoje: ali je izba prazna, ali pa je najnovejša tema v izbi starejša od nastavljene meje časovnega prikaza.
+						</td>
+					</tr>
+--------------------------
+[]
+[]
+[]
+2012-11-14 10:45:05+0100 [mn3topic] ERROR: Spider error processing <http://www.joker.si/mn3njalnik/index.php?showforum=21> (referer: <None>)
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/base.py", line 800, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 595, in _tick
+	    taskObj._oneWorkUnit()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 472, in _oneWorkUnit
+	    result = self._iterator.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 57, in <genexpr>
+	    work = (callable(elem, *args, **named) for elem in iterable)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 96, in iter_errback
+	    yield it.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/offsite.py", line 24, in process_spider_output
+	    for x in result:
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/referer.py", line 14, in <genexpr>
+	    return (_set_referer(r) for r in result or ())
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/urllength.py", line 32, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/depth.py", line 48, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/home/maks/Projects/mn3spider/mn3spider/spiders/mn3_spider.py", line 53, in parse
+	    date = topic.select('td[@class="col_f_content "]//a[@class="topic_title"]//@title').extract()[0]
+	exceptions.IndexError: list index out of range
+
+
+
+************************
+
+
+28
+list index out of range
+--------------------------
+<tr class="__topic unread expandable" id="trow_2062" data-tid="2062"><td class="col_f_icon altrow short">
+		
+
+	<span title="Zaklenjena tema"><img src="http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_locked.png" alt="Zaklenjena tema"><br></span>
+
+
+<a href="http://www.joker.si/mn3njalnik/index.php?showtopic=2062&amp;view=getnewpost" title="Pojdi na prvo neprebrano sporočilo">
+	
+		<img src="http://www.joker.si/mn3njalnik/public/style_images/joker_new/t_unread.png" alt="Novi odgovori"><br></a>
+	</td>
+	<td class="col_f_content ">
+		
+		
+		
+		<h4><a id="tid-link-2062" href="http://www.joker.si/mn3njalnik/index.php?showtopic=2062" title="Poglej temo, odprto  02 julij 2012 - 22:39" class="topic_title">zakaj se janša</a></h4>
+		<br><span class="desc lighter blend_links">
+			Avtor: Izbrisani_saladin_*, 02 jul 2012
+			
+				  <img src="http://www.joker.si/mn3njalnik/public/style_images/joker_new/icon_tag.png"><a href="http://www.joker.si/mn3njalnik/index.php?app=core&amp;module=search&amp;do=search&amp;search_tags=epska+pesnitev+angel_b&amp;search_app=forums" data-tooltip="najdi vsebine označene kot 'epska pesnitev angel_b'"><span>epska pesnitev angel_b</span></a>
+			
+		</span>
+		
+	</td>
+	<td class="col_f_preview __topic_preview">
+		
+			<a href="http://www.joker.si/mn3njalnik/index.php?showtopic=2062" class="expander closed" title="Predogled teme"> </a>
+		
+	</td>
+	<td class="col_f_views desc blend_links">
+		<ul><li>
+				
+				
+				
+					<a href="http://www.joker.si/mn3njalnik/index.php?app=forums&amp;module=extras&amp;section=stats&amp;do=who&amp;t=2062" onclick="return ipb.forums.retrieveWhoPosted( 2062 );">36 odgovorov</a>
+			</li>
+			<li class="views desc">3 512 ogledov</li>
+		</ul></td>
+	<td class="col_f_post">
+		<a href="http://www.joker.si/mn3njalnik/index.php?showuser=16869" class="ipsUserPhotoLink left">
+			<img src="http://www.joker.si/mn3njalnik/uploads/profile/photo-16869.jpg" class="ipsUserPhoto ipsUserPhoto_mini"></a>
+		<ul class="last_post ipsType_small"><li><a hovercard-ref="member" hovercard-id="16869" class="_hovertrigger url fn " href="http://www.joker.si/mn3njalnik/index.php?showuser=16869">reset</a></li>
+			<li>
+				<a href="http://www.joker.si/mn3njalnik/index.php?showtopic=2062&amp;view=getlastpost" title="Pojdi na zadnje sporočilo">03 jul 2012</a>
+			</li>								
+		</ul></td>
+	
+</tr>
+--------------------------
+[u'zakaj se jan\u0161a']
+[]
+[u'http://www.joker.si/mn3njalnik/index.php?showtopic=2062']
+2012-11-14 10:44:56+0100 [mn3topic] ERROR: Spider error processing <http://www.joker.si/mn3njalnik/index.php?showforum=28> (referer: <None>)
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/base.py", line 800, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 595, in _tick
+	    taskObj._oneWorkUnit()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 472, in _oneWorkUnit
+	    result = self._iterator.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 57, in <genexpr>
+	    work = (callable(elem, *args, **named) for elem in iterable)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 96, in iter_errback
+	    yield it.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/offsite.py", line 24, in process_spider_output
+	    for x in result:
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/referer.py", line 14, in <genexpr>
+	    return (_set_referer(r) for r in result or ())
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/urllength.py", line 32, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/depth.py", line 48, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/home/maks/Projects/mn3spider/mn3spider/spiders/mn3_spider.py", line 69, in parse
+	    db.insertTopic(forumid,  item['id'],  item['title'],  item['author'],  item['date'])
+	  File "/usr/lib/python2.7/dist-packages/scrapy/item.py", line 49, in __getitem__
+	    return self._values[key]
+	exceptions.KeyError: 'author'
+
+
+***********************
+
+MN3POST
+
+2012-11-14 12:50:23+0100 [mn3post] ERROR: Spider error processing <http://www.joker.si/mn3njalnik/index.php?showtopic=208> (referer: <None>)
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/base.py", line 800, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 595, in _tick
+	    taskObj._oneWorkUnit()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 472, in _oneWorkUnit
+	    result = self._iterator.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 57, in <genexpr>
+	    work = (callable(elem, *args, **named) for elem in iterable)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 96, in iter_errback
+	    yield it.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/offsite.py", line 24, in process_spider_output
+	    for x in result:
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/referer.py", line 14, in <genexpr>
+	    return (_set_referer(r) for r in result or ())
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/urllength.py", line 32, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/depth.py", line 48, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/home/maks/Projects/mn3spider/mn3spider/spiders/mn3_spider.py", line 107, in parse
+	    item['num'] = post.select('h3[@class="row2"]/span/a[@rel="bookmark"]/text()').extract()[0][1:]
+	exceptions.IndexError: list index out of range
+	
+2012-11-14 12:50:23+0100 [mn3post] DEBUG: Crawled (200) <GET http://www.joker.si/mn3njalnik/index.php?showtopic=206> (referer: None)
+2012-11-14 12:50:25+0100 [mn3post] DEBUG: Crawled (200) <GET http://www.joker.si/mn3njalnik/index.php?showtopic=338&st=1680> (referer: http://www.joker.si/mn3njalnik/index.php?showtopic=338&st=1640)
+2012-11-14 12:50:26+0100 [mn3post] DEBUG: Crawled (200) <GET http://www.joker.si/mn3njalnik/index.php?showtopic=205> (referer: None)
+2012-11-14 12:50:27+0100 [mn3post] DEBUG: Crawled (200) <GET http://www.joker.si/mn3njalnik/index.php?showtopic=208&st=40> (referer: http://www.joker.si/mn3njalnik/index.php?showtopic=208)
+2012-11-14 12:50:29+0100 [mn3post] DEBUG: Crawled (200) <GET http://www.joker.si/mn3njalnik/index.php?showtopic=203> (referer: None)
+2012-11-14 12:50:30+0100 [mn3post] ERROR: Spider error processing <http://www.joker.si/mn3njalnik/index.php?showtopic=203> (referer: <None>)
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/base.py", line 800, in runUntilCurrent
+	    call.func(*call.args, **call.kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 595, in _tick
+	    taskObj._oneWorkUnit()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/task.py", line 472, in _oneWorkUnit
+	    result = self._iterator.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 57, in <genexpr>
+	    work = (callable(elem, *args, **named) for elem in iterable)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/scrapy/utils/defer.py", line 96, in iter_errback
+	    yield it.next()
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/offsite.py", line 24, in process_spider_output
+	    for x in result:
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/referer.py", line 14, in <genexpr>
+	    return (_set_referer(r) for r in result or ())
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/urllength.py", line 32, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/usr/lib/python2.7/dist-packages/scrapy/contrib/spidermiddleware/depth.py", line 48, in <genexpr>
+	    return (r for r in result or () if _filter(r))
+	  File "/home/maks/Projects/mn3spider/mn3spider/spiders/mn3_spider.py", line 107, in parse
+	    item['num'] = post.select('h3[@class="row2"]/span/a[@rel="bookmark"]/text()').extract()[0][1:]
+	exceptions.IndexError: list index out of range
+
+
