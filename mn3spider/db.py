@@ -46,6 +46,9 @@ class SqliteDB:
     def getPostsFromTopic(self, topicid):
         return self.cursor.execute("SELECT * FROM PostList WHERE topicid=?",[topicid]).fetchall()
 
+    def getPostsFromForum(self, forumid):
+        return self.cursor.execute("SELECT * FROM PostList WHERE topicid IN (SELECT topicid FROM TopicList WHERE forumid=?)",[forumid]).fetchall()
+
     def delete(self):
         pass
     
